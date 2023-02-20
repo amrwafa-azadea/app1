@@ -1,0 +1,28 @@
+{
+  "id": "19b0cc03-0635-4d11-8de9-8193ebc9b494",
+  "name": "app1",
+  "publisher": "amr",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50010
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
