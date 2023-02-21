@@ -7,5 +7,7 @@
       "path": "app1"
     }
   ],
-  "settings": {}
+  "settings": {
+    "powershell.cwd": "c:\\Users\\amr.local\\repo\\app1\\app1"
+  }
 }

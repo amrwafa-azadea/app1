@@ -132,7 +132,8 @@ CreateDevEnv `
     -auth $auth `
     -credential $credential `
     -licenseFileUrl $licenseFileUrl `
-    -insiderSasToken $insiderSasToken
+    -insiderSasToken $insiderSasToken `
+    -Verbose
 }
 catch {
     Write-Host -ForegroundColor Red "Error: $($_.Exception.Message)`nStacktrace: $($_.scriptStackTrace)"

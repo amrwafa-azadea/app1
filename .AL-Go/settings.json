@@ -1,6 +1,8 @@
 {
-  "country": "us",
+  "country": "w1",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "artifact": "//18.3/w1",
+  "applicationDependency": "18.3"
 }
